@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TextEditor</string>
+    <string name="none">Uncheck All</string>
+    <string name="ext">External</string>
+    <string name="Int">Internal</string>
+    <string name="all">Check All</string>
+    <string name="insert">Insert</string>
+    <string name="save">Save</string>
+    <string name="preview">preview</string>
+    <string name="hint">Entet text, insert image anywhere....</string>
+</resources>

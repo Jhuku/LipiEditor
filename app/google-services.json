@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "475284010002",
+    "firebase_url": "https://texteditor-4583f.firebaseio.com",
+    "project_id": "texteditor-4583f",
+    "storage_bucket": "texteditor-4583f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475284010002:android:3e78a72e38e00a90",
+        "android_client_info": {
+          "package_name": "com.shuvam.texteditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475284010002-nve4euapgnsjm2cmvdssmjkch2i1drbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shuvam.texteditor",
+            "certificate_hash": "00ad6f74e1905644175f9956c095dfd88d1bb9e3"
+          }
+        },
+        {
+          "client_id": "475284010002-dap1kips0p36d6ren4969p8s2tv9uah3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTaF98aJSsrRhsUgeSM0xF3DV3-VP7rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475284010002-dap1kips0p36d6ren4969p8s2tv9uah3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
